@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "import",
+      "type": "java.lang.String",
+      "description": "Description for import."
+    },
+    {
+      "name": "spring.jackson.default-property-inclusion_null",
+      "type": "java.lang.String",
+      "description": "Description for spring.jackson.default-property-inclusion_null."
+    },
+    {
+      "name": "ADYEN_MERCHANT_ACCOUNT",
+      "type": "java.lang.String",
+      "description": "Description for ADYEN_MERCHANT_ACCOUNT."
+    },
+    {
+      "name": "ADYEN_MERCHANT_ACCOUNT",
+      "type": "java.lang.String",
+      "description": "Description for ADYEN_MERCHANT_ACCOUNT."
+    },
+    {
+      "name": "ADYEN_MERCHANT_ACCOUNT",
+      "type": "java.lang.String",
+      "description": "Description for ADYEN_MERCHANT_ACCOUNT."
+    }
+  ] }
